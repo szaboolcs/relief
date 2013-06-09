@@ -1,0 +1,206 @@
+2012-12-16 09:47:13	session_set_save_handler() expects parameter 1 to be SessionHandlerInterface, object given	C:\xampp\htdocs\Relief2\system\Relief.php	87	2
+2012-12-16 09:47:25	session_set_save_handler() expects parameter 1 to be SessionHandlerInterface, object given	C:\xampp\htdocs\Relief2\system\Relief.php	87	2
+2012-12-16 09:52:10	session_set_save_handler() expects parameter 1 to be SessionHandlerInterface, array given	C:\xampp\htdocs\Relief2\system\Relief.php	94	2
+2012-12-16 09:52:11	session_set_save_handler() expects parameter 1 to be SessionHandlerInterface, array given	C:\xampp\htdocs\Relief2\system\Relief.php	94	2
+2012-12-16 09:52:41	session_set_save_handler() expects parameter 1 to be SessionHandlerInterface, array given	C:\xampp\htdocs\Relief2\system\Relief.php	94	2
+2012-12-16 09:52:42	session_set_save_handler() expects parameter 1 to be SessionHandlerInterface, array given	C:\xampp\htdocs\Relief2\system\Relief.php	94	2
+2012-12-16 10:16:28	Method not exist.
+2012-12-16 10:16:28	Method not exist.	C:\xampp\htdocs\Relief2\system\Relief.php	143	1
+2012-12-16 10:16:34	Method not exist.
+2012-12-16 10:16:34	Method not exist.	C:\xampp\htdocs\Relief2\system\Relief.php	143	1
+2012-12-16 10:16:51	Undefined variable: _SESSION	C:\xampp\htdocs\Relief2\application\controllers\indexController.php	23	8
+2012-12-16 10:16:51	Undefined variable: _SESSION	C:\xampp\htdocs\Relief2\application\controllers\indexController.php	23	8
+2012-12-16 10:16:51	Undefined variable: _SESSION	C:\xampp\htdocs\Relief2\application\controllers\indexController.php	23	8
+2012-12-16 10:16:51	Undefined variable: _SESSION	C:\xampp\htdocs\Relief2\application\controllers\indexController.php	23	8
+2012-12-16 10:17:06	Undefined variable: _SESSION	C:\xampp\htdocs\Relief2\application\controllers\indexController.php	23	8
+2012-12-16 10:17:17	Undefined variable: _SESSION	C:\xampp\htdocs\Relief2\application\controllers\indexController.php	23	8
+2012-12-16 10:17:17	Undefined variable: _SESSION	C:\xampp\htdocs\Relief2\application\controllers\indexController.php	23	8
+2012-12-16 10:17:17	Undefined variable: _SESSION	C:\xampp\htdocs\Relief2\application\controllers\indexController.php	23	8
+2012-12-16 10:44:34	Undefined variable: savePath	C:\xampp\htdocs\Relief2\system\Base\CSession.php	35	8
+2012-12-16 10:45:14	Undefined variable: id	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	8
+2012-12-16 10:45:14	Undefined variable: id	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	8
+2012-12-16 10:45:14	Undefined variable: id	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	8
+2012-12-16 10:45:15	Undefined variable: id	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	8
+2012-12-16 10:45:15	Undefined variable: id	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	8
+2012-12-16 10:45:15	Undefined variable: id	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	8
+2012-12-16 10:45:22	Undefined variable: id	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	8
+2012-12-16 10:45:22	Undefined variable: id	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	8
+2012-12-16 10:45:22	Undefined variable: id	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	8
+2012-12-16 10:47:16	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_ihu3u83a7d44crik5d9tff6e90): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:47:29	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_ihu3u83a7d44crik5d9tff6e90): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:47:29	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_ihu3u83a7d44crik5d9tff6e90): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:47:37	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_ihu3u83a7d44crik5d9tff6e90): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:47:58	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_84il3ol0i32sq354gmsgvhm401): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:47:59	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_imoknodpo8bbg9j73623cdv423): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:47:59	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_kbjp8noru4k37q82bm5j8rrkg3): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:47:59	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_th9cnrnb5eacvga138kg6tt0a7): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:00	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_dptatvbubqi3joe0p9n9fri4a3): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:00	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_ber90bk70c3uhddftdrc9iotm4): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:00	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_gb07b1tfm811emncmuvg1vo4l3): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:00	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_dritbtm9dd31lofmaev640k6f5): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:00	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_156nkt4d6g7ahbsts9ntrmfai4): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:00	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_4s4q15tihog08kqjjfju5v47g3): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:00	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_qaqj7ei4h636tjf7n94idsjb03): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:01	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_79us5uenluct3dkae3rs53h8q2): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:01	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_0sdd1qp2c4mgodjahpab40rvc2): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:35	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_on8e83ivdnfeff17c0hdgbpc25): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:39	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_t9o45kis9ec20djfoof68to112): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:39	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_bmnim9mvf51mkqlc50q2gkht87): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:39	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_hphqtgn8i39dqn8hoc4g3kbig6): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:40	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_5u9d6micd7c236n29cbl26mfv5): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:40	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_bln6l9em7sntrfpkre1h42r9h1): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:40	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_c7mmgkgmnr3rjecf1m3o3qm1c3): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:48	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_au6g4ck9q8vgalbdt1hokvhns5): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:48	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_i6068a0uevvenfi9j1tlnoja41): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:49	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_ekc84lf1o65ldo8ig8hk0sgfo4): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:49	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_5dplseh8e78a40cjlnj9i0hsm6): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:58	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_nmsefr53euojl2dio793da85l5): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:59	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_o3t90jn5ntdv32tktsg0fcpev0): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:59	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_2k8rl73mh2b92rlfukgd9mqa75): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:59	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_jgncgrakjm6ts4np5upnuf5hq4): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:48:59	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_q3mumaqijq0ahiloa0meqvo7o7): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:49:06	Undefined variable: data	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	8
+2012-12-16 10:49:07	Undefined variable: data	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	8
+2012-12-16 10:49:16	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_ejijq2igd4km726fsl8gbah394): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:49:16	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_7n6eiilhg38f7t7ojfrm75b613): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:49:16	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_rlc7fbrgdl4bove839gb197gi4): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:49:16	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_iu5963up6vln0jgsson1jrpiu2): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:49:16	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_ps0q1v9gra507e09h5a4ka9hl0): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:49:16	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_907bbfcnlnh8dgvk5ngga3t6s4): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:49:17	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_vl9odlbmfp7jj7tefhreqltok3): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:49:17	file_get_contents(C:/xampp/htdocs/Relief2/system/session/sess_lnqngfr8kl9shq6t026vk35fp7): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:50:11	file_get_contents(C:\xampp\tmp/sess_r02usrt9mrncsk3ntmuujhitb6): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:50:12	file_get_contents(C:\xampp\tmp/sess_d1dhh5kmqo3bsv830ocu03j935): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 10:50:28	file_get_contents(C:\xampp\tmp/sess_4lsolfkkdgbuo572bdl4tvu7e0): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	2
+2012-12-16 10:50:28	file_get_contents(C:\xampp\tmp/sess_mr9m69rqa26son34rrs34e2rl5): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	2
+2012-12-16 10:52:21	file_get_contents(C:\xampp\tmp/sess_h66tut1nbss1qin7rj6rkv3ti1): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:52:21	file_get_contents(C:\xampp\tmp/sess_u64c5fcoo0mnc5lbtqv8kfbl26): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:52:21	file_get_contents(C:\xampp\tmp/sess_25pv05frl8657h8bbqichrcvk5): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:52:35	file_get_contents(C:\xampp\tmp/sess_9n7khsf05kli6oafo250g81ee2): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:42	file_get_contents(C:\xampp\tmp/sess_92u54ti1fds1tbqcbbnd91t942): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:42	file_get_contents(C:\xampp\tmp/sess_cvvlvp7s1aibkocgdvtvgt4453): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:42	file_get_contents(C:\xampp\tmp/sess_uq9lch4othel84fubgq06kih01): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:42	file_get_contents(C:\xampp\tmp/sess_imonnk2mbarr5t1dssrr12cfb0): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:43	file_get_contents(C:\xampp\tmp/sess_it3elmu6ipq30tq06ihnrpbgm6): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:43	file_get_contents(C:\xampp\tmp/sess_12l8rkfh3iphc6qmm4utl3m1c0): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:43	file_get_contents(C:\xampp\tmp/sess_bn388aerlkpopkc03ivq4o4eb7): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:43	file_get_contents(C:\xampp\tmp/sess_07pke41c66pp8hipaoc8h83ru7): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:43	file_get_contents(C:\xampp\tmp/sess_tegee5bbrdi4fk1fhfb3qb7sp3): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:44	file_get_contents(C:\xampp\tmp/sess_ujc3q9qgckfn5gv8k37gb5pp17): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:44	file_get_contents(C:\xampp\tmp/sess_vdsc0facip9da9rnsuq7hndaq4): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:44	file_get_contents(C:\xampp\tmp/sess_hpngih55uvn8d2d23rhftbhpu5): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:44	file_get_contents(C:\xampp\tmp/sess_mbm41kjntf1fq5ujkthuh7hpn5): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:44	file_get_contents(C:\xampp\tmp/sess_6qogr667ou73m303t3s3e3rjg6): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:44	file_get_contents(C:\xampp\tmp/sess_09v8gk1p9aig7bqd2pk2v8f0n4): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:45	file_get_contents(C:\xampp\tmp/sess_rfaktcv58o5evog6pkcek1el61): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:55	file_get_contents(C:\xampp\tmp/sess_jkfbj7uhrjpkj8kh048a774942): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:55	file_get_contents(C:\xampp\tmp/sess_f0q6ufrrg0bfcbrnlf034f0p10): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:55	file_get_contents(C:\xampp\tmp/sess_54o1aqh9jp8sla0qkqjkg504p7): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:53:56	file_get_contents(C:\xampp\tmp/sess_a25481jq6ggdcejbqgrthah7g2): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:54:01	file_get_contents(C:\xampp\tmp/sess_q6s70f1buc09uma269eujug2e3): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:55:51	file_get_contents(C:\xampp\tmp/sess_7kccp8bl6rt26qesdvdr21c823): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:55:51	file_get_contents(C:\xampp\tmp/sess_9v4p7g3tvtitj53memjf91s5k2): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:55:52	file_get_contents(C:\xampp\tmp/sess_50tjq670b9c2pvko9tb3evasg2): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:55:52	file_get_contents(C:\xampp\tmp/sess_t8ut19khal0linbdau3tve0g20): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 10:55:52	file_get_contents(C:\xampp\tmp/sess_99ruc4jpgh1de495sf8v2hsf14): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 11:06:54	file_get_contents(C:\xampp\tmp/sess_pj77jjn3hu771hkngir9h8tc86): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 11:07:43	file_get_contents(C:\xampp\tmp/sess_6trrt25ochrca4jk9jtjb589i0): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 11:08:11	file_get_contents(C:\xampp\tmp/sess_6trrt25ochrca4jk9jtjb589i0): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	60	2
+2012-12-16 11:09:46	file_get_contents(C:\xampp\tmp/sess_6trrt25ochrca4jk9jtjb589i0): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	56	2
+2012-12-16 11:10:04	file_get_contents(C:\xampp\tmp/sess_6trrt25ochrca4jk9jtjb589i0): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	56	2
+2012-12-16 11:10:13	Undefined variable: id	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	8
+2012-12-16 11:10:28	file_get_contents(C:\xampp\tmp/sess_6trrt25ochrca4jk9jtjb589i0): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	2
+2012-12-16 11:10:29	file_get_contents(C:\xampp\tmp/sess_6trrt25ochrca4jk9jtjb589i0): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	59	2
+2012-12-16 11:10:35	file_get_contents(C:\xampp\tmp/sess_6trrt25ochrca4jk9jtjb589i0): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 11:10:52	file_get_contents(C:\xampp\tmp/sess_6trrt25ochrca4jk9jtjb589i0): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 11:11:18	file_get_contents(C:\xampp\tmp/sess_34pniv1rp73fauigmo9uh5jku2): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 11:11:19	file_get_contents(C:\xampp\tmp/sess_kr2l5qe897a7abrbtsbd2i4n92): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 11:11:34	file_get_contents(C:\xampp\tmp/sess_a5b2m85ortdiifi7mad890inl3): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 11:11:37	file_get_contents(C:\xampp\tmp/sess_87bu4r717lfida32ltugnn7v00): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 11:11:40	file_get_contents(C:\xampp\tmp/sess_7891bcj9bvosoqpsoe4r037uv5): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CSession.php	57	2
+2012-12-16 11:24:09	Undefined variable: CSession	C:\xampp\htdocs\Relief2\system\Base\CSession.php	31	8
+2012-12-16 11:25:19	Undefined variable: CSession	C:\xampp\htdocs\Relief2\system\Base\CSession.php	31	8
+2012-12-16 11:25:20	Undefined variable: CSession	C:\xampp\htdocs\Relief2\system\Base\CSession.php	31	8
+2012-12-16 11:25:20	Undefined variable: CSession	C:\xampp\htdocs\Relief2\system\Base\CSession.php	31	8
+2012-12-16 11:25:58	Undefined variable: CSession	C:\xampp\htdocs\Relief2\system\Base\CSession.php	30	8
+2012-12-16 11:25:59	Undefined variable: CSession	C:\xampp\htdocs\Relief2\system\Base\CSession.php	30	8
+2012-12-16 11:25:59	Undefined variable: CSession	C:\xampp\htdocs\Relief2\system\Base\CSession.php	30	8
+2012-12-16 11:26:28	session_set_save_handler(): Argument 1 is not a valid callback	C:\xampp\htdocs\Relief2\system\Base\CSession.php	36	2
+2012-12-16 11:38:41	session_set_save_handler(): Argument 1 is not a valid callback	C:\xampp\htdocs\Relief2\system\Base\CSession.php	36	2
+2012-12-16 11:52:56	Object of class CSession could not be converted to string	C:\xampp\htdocs\Relief2\system\Base\CSession.php	24	4096
+2012-12-16 11:52:56	Object of class CSession could not be converted to string	C:\xampp\htdocs\Relief2\system\Base\CSession.php	24	4096
+2012-12-16 11:52:56	Object of class CSession could not be converted to string	C:\xampp\htdocs\Relief2\system\Base\CSession.php	24	4096
+2012-12-16 11:53:35	Undefined index: i73kcalb5f73jqo31q6mr75f32	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 11:56:37	Undefined index: i73kcalb5f73jqo31q6mr75f32	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 11:56:38	Undefined index: i73kcalb5f73jqo31q6mr75f32	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 11:56:38	Undefined index: i73kcalb5f73jqo31q6mr75f32	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 11:56:38	Undefined index: i73kcalb5f73jqo31q6mr75f32	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 11:57:17	Undefined index: dodru7our11ig43jbmi40m2kq0	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 12:02:14	Undefined index: aqcga4e1skgiql99mj2pi4vmm3	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 12:02:17	Undefined index: s5n01m93smtsg9c3srgbemto27	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 12:02:17	Undefined index: vtedok2en9jlgit7qsoul266v2	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 12:02:17	Undefined index: dpjplu71a0daasdvpg61bb66e5	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 12:02:21	Undefined index: 3kvenl5pd3ejhr014fp5l32lc0	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 12:02:26	Undefined index: 0u0nk4jsm2f98kt3j47st07n33	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 12:02:30	Undefined index: dheqim1um4a917kfs5fus6na84	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 12:02:40	Undefined index: 1iggd2irq66m7tpeh73sppu0l5	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	24	8
+2012-12-16 12:02:40	Undefined index: nvl3ffvku2f49ghfhs3guqm3f6	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	24	8
+2012-12-16 12:02:40	Undefined index: ij5ddl51csmeqa3cpn8sa3o420	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	24	8
+2012-12-16 12:20:12	Undefined index: p822j83os6uon5rm5408h2srm7	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	23	8
+2012-12-16 12:20:36	session_set_save_handler(): Argument 1 is not a valid callback	C:\xampp\htdocs\Relief2\system\Base\CSession.php	36	2
+2012-12-16 12:25:20	mkdir(): Invalid argument	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionFile.php	20	2
+2012-12-16 12:25:30	mkdir(): Invalid argument	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionFile.php	20	2
+2012-12-16 12:25:31	mkdir(): Invalid argument	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionFile.php	20	2
+2012-12-16 12:25:31	mkdir(): Invalid argument	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionFile.php	20	2
+2012-12-16 12:25:42	file_get_contents(C:/xampp/htdocs/Relief2/system/sessions/sess_5jmafhta4k86nhvlnhdbbhlp64): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionFile.php	54	2
+2012-12-16 12:25:47	file_get_contents(C:/xampp/htdocs/Relief2/system/sessions/sess_o7ad6fm4onb74e7139li5f9jr5): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionFile.php	54	2
+2012-12-16 12:26:06	file_get_contents(C:/xampp/htdocs/Relief2/system/sessions/sess_ulj4e59np6t2vei6tgim2hodj3): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionFile.php	54	2
+2012-12-16 12:26:07	file_get_contents(C:/xampp/htdocs/Relief2/system/sessions/sess_9i8nm36mnrcro2ofaik4cp7o10): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionFile.php	54	2
+2012-12-16 13:09:52	Trying to get property of non-object	C:\xampp\htdocs\Relief2\system\Relief.php	88	8
+2012-12-16 13:09:52	Trying to get property of non-object	C:\xampp\htdocs\Relief2\system\Relief.php	88	8
+2012-12-16 13:24:24	Undefined index: cGZxNWRwa25vanJhbDJycGo2aXEzc3ExNzE=	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	59	8
+2012-12-16 13:24:24	Undefined index: cGZxNWRwa25vanJhbDJycGo2aXEzc3ExNzE=	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	59	8
+2012-12-16 13:24:24	Undefined index: cGZxNWRwa25vanJhbDJycGo2aXEzc3ExNzE=	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	59	8
+2012-12-16 13:24:25	Undefined index: cGZxNWRwa25vanJhbDJycGo2aXEzc3ExNzE=	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	59	8
+2012-12-16 13:25:09	Cookie names cannot contain any of the following '=,; \t\r\n\013\014'	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	78	2
+2012-12-16 13:25:10	Cookie names cannot contain any of the following '=,; \t\r\n\013\014'	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionCookie.php	78	2
+2012-12-16 14:59:30	Connection not exist
+2012-12-16 14:59:30	Connection not exist.	C:\xampp\htdocs\Relief2\system\Base\CDatabase.php	74	1
+2012-12-16 14:59:33	Connection not exist
+2012-12-16 14:59:33	Connection not exist.	C:\xampp\htdocs\Relief2\system\Base\CDatabase.php	74	1
+2012-12-16 15:03:57	Connection not exist
+2012-12-16 15:03:57	Connection not exist.	C:\xampp\htdocs\Relief2\system\Base\CDatabase.php	74	1
+2012-12-16 15:06:45	Connection not exist
+2012-12-16 15:06:45	Connection not exist.	C:\xampp\htdocs\Relief2\system\Base\CDatabase.php	74	1
+2012-12-16 15:06:45	Connection not exist
+2012-12-16 15:06:45	Connection not exist.	C:\xampp\htdocs\Relief2\system\Base\CDatabase.php	74	1
+2012-12-16 15:06:48	Connection not exist
+2012-12-16 15:06:48	Connection not exist.	C:\xampp\htdocs\Relief2\system\Base\CDatabase.php	74	1
+2012-12-16 15:06:49	Connection not exist
+2012-12-16 15:06:49	Connection not exist.	C:\xampp\htdocs\Relief2\system\Base\CDatabase.php	74	1
+2012-12-16 15:06:53	Connection not exist
+2012-12-16 15:06:53	Connection not exist.	C:\xampp\htdocs\Relief2\system\Base\CDatabase.php	74	1
+2012-12-16 15:06:53	Connection not exist
+2012-12-16 15:06:53	Connection not exist.	C:\xampp\htdocs\Relief2\system\Base\CDatabase.php	74	1
+2012-12-16 15:06:54	Connection not exist
+2012-12-16 15:06:54	Connection not exist.	C:\xampp\htdocs\Relief2\system\Base\CDatabase.php	74	1
+2012-12-16 15:08:36	Only variables should be passed by reference	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionMysql.php	122	2048
+2012-12-16 15:08:37	Only variables should be passed by reference	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionMysql.php	122	2048
+2012-12-16 15:08:59	Only variables should be passed by reference	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionMysql.php	122	2048
+2012-12-16 15:16:40	Undefined variable: data	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionMysql.php	143	8
+2012-12-16 15:16:58	Undefined variable: data	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionMysql.php	131	8
+2012-12-16 15:17:08	Undefined variable: data	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionMysql.php	131	8
+2012-12-16 15:24:21	Undefined variable: st	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionMysql.php	146	8
+2012-12-16 15:26:02	Undefined variable: exist	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionMysql.php	148	8
+2012-12-16 15:26:47	Undefined variable: exists	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionMysql.php	156	8
+2012-12-16 15:27:26	Undefined variable: exist_st	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionMysql.php	149	8
+2012-12-16 15:27:35	Undefined variable: result	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionMysql.php	152	8
+2012-12-16 15:29:13	Undefined variable: result	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionMysql.php	152	8
+2012-12-16 15:38:00	Illegal string offset 'data'	C:\xampp\htdocs\Relief2\system\Base\SessionHandlers\CSessionMysql.php	133	2
+2012-12-16 16:14:28	This is not subclass of CController.
+2012-12-16 16:14:28	This is not subclass of CController	C:\xampp\htdocs\Relief2\system\Relief.php	137	0
+2012-12-16 16:33:12	require_once(C:/xampp/htdocs/Relief2/system;Base/SessionHandlers/CSessionFile.php): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CAutoloader.php	55	2
+2012-12-16 19:48:58	Controller not exist.
+2012-12-16 19:48:58	Controller not exist.	C:\xampp\htdocs\Relief2\system\Relief.php	122	1
+2012-12-16 19:55:16	require_once(C:\xampp\htdocs\Relief2\system\Base/SessionHandlers/CSessionFile\php): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CAutoloader.php	55	2
+2012-12-16 19:55:17	require_once(C:\xampp\htdocs\Relief2\system\Base/SessionHandlers/CSessionFile\php): failed to open stream: No such file or directory	C:\xampp\htdocs\Relief2\system\Base\CAutoloader.php	55	2

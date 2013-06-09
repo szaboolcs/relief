@@ -1,0 +1,8 @@
+2012-12-15 20:55:55	preg_match(): Unknown modifier ''	C:\xampp\htdocs\Relief2\system\Classes\Validators\CEmailValidator.php	79	2
+2012-12-15 20:57:53	preg_match(): Unknown modifier '+'	C:\xampp\htdocs\Relief2\system\Classes\Validators\CEmailValidator.php	61	2
+2012-12-15 20:57:54	preg_match(): Unknown modifier '+'	C:\xampp\htdocs\Relief2\system\Classes\Validators\CEmailValidator.php	61	2
+2012-12-15 20:57:54	preg_match(): Unknown modifier '+'	C:\xampp\htdocs\Relief2\system\Classes\Validators\CEmailValidator.php	61	2
+2012-12-15 20:58:06	preg_match_all(): Unknown modifier '+'	C:\xampp\htdocs\Relief2\system\Classes\Validators\CEmailValidator.php	61	2
+2012-12-15 20:58:06	preg_match_all(): Unknown modifier '+'	C:\xampp\htdocs\Relief2\system\Classes\Validators\CEmailValidator.php	61	2
+2012-12-15 20:58:09	preg_match(): Unknown modifier '+'	C:\xampp\htdocs\Relief2\system\Classes\Validators\CEmailValidator.php	61	2
+2012-12-15 21:00:09	Only variables should be passed by reference	C:\xampp\htdocs\Relief2\system\Classes\Validators\CEmailValidator.php	103	2048
